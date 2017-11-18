@@ -5,5 +5,6 @@
 
 ### sys_guid():oracle函数，用于生成唯一guid
 `eg:update VARIETY_PROMOTION_DETAILS set id = sys_guid()`
-
-![icon](http://http://www.linuxidc.com/upload/2016_11/16112811369909.jpg)
+***
+E-mail:44825762@163.com
+---
